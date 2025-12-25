@@ -1,11 +1,11 @@
-# Iris-Flower-Classification-Using-Machine-Learning-with-Interactive-Interface
-## Overview
+# 
+# Overview
 
 This repository contains a machine learning project that explores and compares the performance of several classification algorithms on the classic Iris flower dataset. The primary goal is to analyze how different machine learning models perform in terms of classification accuracy and related metrics when identifying Iris species based on physical flower measurements.
 
 The algorithms implemented include popular supervised classifiers such as K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Logistic Regression, Decision Tree, and Random Forest. The results are evaluated using metrics such as accuracy, precision, recall, and F1-score to determine the most effective model for this task.
 
-## Dataset Description
+# Dataset Description
 
 The Iris dataset is a well-known dataset in machine learning containing 150 samples with four numerical features:
 
@@ -61,9 +61,11 @@ These metrics help understand how well each algorithm classifies the Iris specie
 <img width="502" height="275" alt="image" src="https://github.com/user-attachments/assets/d7cd3e45-bdbb-449d-a7d5-ad82551fa73d" />
 
 # Output 
+Baseline Model Accuracy: Logistic Regression successfully classified the Iris species with a high precision score of ~95%.
 
 <img width="548" height="106" alt="image" src="https://github.com/user-attachments/assets/5e07a887-0074-4986-8c1f-b70ef9e072c4" />
 
+ It compares all the models (SVM, KNN, Naive Bayes, etc.). Comparative Analysis of Machine Learning Algorithms: Performance evaluation of five different classifiers based on accuracy scores.
 <img width="357" height="234" alt="image" src="https://github.com/user-attachments/assets/c1d16d66-0186-4800-bd6d-0707fec60d37" />
 
 # Results & Insights
